@@ -4,7 +4,7 @@
   "released_at": "",
   "summary": {
     "title": "treat toko online",
-    "owner": "",
+    "owner": "Hilmi",
     "description": "",
     "id": 0
   },
@@ -12,7 +12,7 @@
     "contributors": [],
     "diagrams": [
       {
-        "id": 0,
+        "id": 2,
         "title": "Diagram STRIDE baru",
         "diagramType": "STRIDE",
         "placeholder": "Deskripsi diagram STRIDE baru",
@@ -21,8 +21,8 @@
         "cells": []
       }
     ],
-    "diagramTop": 2,
-    "reviewer": "",
+    "diagramTop": 3,
+    "reviewer": "april rustianto, M.kom",
     "threatTop": 0
   }
 }
