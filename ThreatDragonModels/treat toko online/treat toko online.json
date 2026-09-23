@@ -5,7 +5,7 @@
   "summary": {
     "title": "treat toko online",
     "owner": "Hilmi",
-    "description": "",
+    "description": "membuat sistem toko online",
     "id": 0
   },
   "detail": {
@@ -13,10 +13,10 @@
     "diagrams": [
       {
         "id": 2,
-        "title": "Diagram STRIDE baru",
-        "diagramType": "STRIDE",
-        "placeholder": "Deskripsi diagram STRIDE baru",
-        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "title": "",
+        "diagramType": "Generik",
+        "placeholder": "Deskripsi diagram generik baru",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
         "version": "2.6.2",
         "cells": []
       }
